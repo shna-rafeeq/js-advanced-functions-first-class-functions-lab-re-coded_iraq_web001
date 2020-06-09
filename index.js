@@ -30,9 +30,12 @@ function createFareMultiplier(x){
   const fareDoubler = createFareMultiplier(2);
   
   const fareTripler = createFareMultiplier(3);
+<<<<<<< HEAD
   
   function selectDifferentDrivers( arr = [], x = func){
     return x(arr);
   }
  
   selectDifferentDrivers(drivers,returnLastTwoDrivers)
+=======
+>>>>>>> 3c4f986d88d8eb64734e46fae993d108a341453c
